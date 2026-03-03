@@ -1,0 +1,494 @@
+{
+    "questions": [
+        {
+            "question": "What does 'no cap' mean?",
+            "options": [
+                "No hat allowed",
+                "No lie / for real",
+                "No money",
+                "No problem"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "If someone has 'rizz', they have...",
+            "options": [
+                "A cold",
+                "Bad luck",
+                "Charisma / charm",
+                "A new car"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What does 'it's giving' mean?",
+            "options": [
+                "It's generous",
+                "It resembles / has the vibe of",
+                "It's a gift",
+                "It's breaking"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "Someone says 'that's cap' — they mean...",
+            "options": [
+                "Nice hat!",
+                "That's expensive",
+                "That's a lie",
+                "That's cool"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is a 'situationship'?",
+            "options": [
+                "A work meeting",
+                "A difficult situation",
+                "An undefined romantic relationship",
+                "A friendship"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Slay' means...",
+            "options": [
+                "To sleep",
+                "To do something exceptionally well",
+                "To fight someone",
+                "To run away"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'rent free' mean?",
+            "options": [
+                "Free housing",
+                "No cost",
+                "Something you can't stop thinking about",
+                "A cheap deal"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If food is 'bussin', it is...",
+            "options": [
+                "Disgusting",
+                "On a bus",
+                "Cold",
+                "Really delicious"
+            ],
+            "correct": 3
+        },
+        {
+            "question": "'Main character energy' means...",
+            "options": [
+                "Being an actor",
+                "Playing video games",
+                "Living like the protagonist of your own story",
+                "Being the boss"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What does 'ate and left no crumbs' mean?",
+            "options": [
+                "Clean eating",
+                "Is hungry",
+                "Did something perfectly",
+                "Made a mess"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is a 'soft launch'?",
+            "options": [
+                "A gentle throw",
+                "Subtly revealing a new relationship online",
+                "A rocket test",
+                "A pillow fight"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Touch grass' means...",
+            "options": [
+                "Start gardening",
+                "Go outside and disconnect from the internet",
+                "Pet a lawn",
+                "Play soccer"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "If someone is 'chronically online', they...",
+            "options": [
+                "Have good wifi",
+                "Spend too much time on the internet",
+                "Work in IT",
+                "Are a hacker"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'gaslight' mean in slang?",
+            "options": [
+                "Turn on a lamp",
+                "Manipulate someone into questioning reality",
+                "Light a candle",
+                "Be positive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "A 'nepo baby' is someone who...",
+            "options": [
+                "Has a baby named Nepo",
+                "Benefits from famous/connected parents",
+                "Adopts pets",
+                "Is very young"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'mid' mean?",
+            "options": [
+                "The middle",
+                "Mediocre / average",
+                "Medium sized",
+                "Moderate"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Caught in 4K' means...",
+            "options": [
+                "Bought a nice TV",
+                "Caught with undeniable evidence",
+                "Took a photo",
+                "Filming a movie"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is a 'beige flag'?",
+            "options": [
+                "A neutral flag",
+                "A quirky but harmless trait",
+                "A surrender flag",
+                "A boring flag"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'NPC' stand for in slang?",
+            "options": [
+                "Nice Polite Citizen",
+                "National Pizza Chain",
+                "Non-Player Character (acting on autopilot)",
+                "New Personal Computer"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Based' means someone is...",
+            "options": [
+                "Living in a basement",
+                "Boring",
+                "Authentically bold in their opinions",
+                "Standing on a base"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What is 'brain rot'?",
+            "options": [
+                "A medical condition",
+                "A zombie trait",
+                "Mental decline from too much internet content",
+                "Computer virus"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "If someone got 'ratioed', their...",
+            "options": [
+                "Math improved",
+                "Reply got more likes than their original post",
+                "Cooking recipe was wrong",
+                "Diet changed"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'stan' mean?",
+            "options": [
+                "To stand up",
+                "A man named Stanley",
+                "To be an extremely devoted fan",
+                "A type of dance"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Delulu' means...",
+            "options": [
+                "A lullaby",
+                "Being delusional (affectionately)",
+                "A dance move",
+                "A type of food"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'W' mean?",
+            "options": [
+                "The letter W",
+                "A win",
+                "A website",
+                "Wondering"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Pick me' describes someone who...",
+            "options": [
+                "Plays sports",
+                "Seeks validation by being 'not like the others'",
+                "Picks flowers",
+                "Is chosen for a team"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is a 'hard launch'?",
+            "options": [
+                "A difficult throw",
+                "A painful landing",
+                "Officially revealing relationship on social media",
+                "A strong rocket"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Ick' refers to...",
+            "options": [
+                "Being sick",
+                "A sudden feeling of disgust about someone",
+                "A bug",
+                "A sticky surface"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'aura points' mean?",
+            "options": [
+                "Yoga energy",
+                "A credit card reward",
+                "A measure of perceived coolness",
+                "Aurora score"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Say less' means...",
+            "options": [
+                "Be quiet",
+                "I already understand, no more explanation needed",
+                "Speak softly",
+                "Fewer words"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is 'girl dinner'?",
+            "options": [
+                "A fancy restaurant",
+                "A formal meal",
+                "An assortment of random snacks as a meal",
+                "Cooking class"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "'Sigma' in slang refers to...",
+            "options": [
+                "A math symbol",
+                "A lone wolf who doesn't need validation",
+                "A fraternity",
+                "A Greek island"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'glazing' mean?",
+            "options": [
+                "Making donuts",
+                "Excessively praising someone",
+                "Cleaning windows",
+                "Ice skating"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Do it for the plot' means...",
+            "options": [
+                "Start writing a novel",
+                "Make decisions for a good story later",
+                "Buy land",
+                "Watch a movie"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'cooked' mean?",
+            "options": [
+                "Food is ready",
+                "Someone is completely done for / destroyed",
+                "Too hot outside",
+                "Tanned from the sun"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Bet' means...",
+            "options": [
+                "A gambling wager",
+                "Okay / sounds good",
+                "A type of card",
+                "A promise"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is a 'villain era'?",
+            "options": [
+                "A scary movie phase",
+                "A phase of prioritizing yourself unapologetically",
+                "Becoming evil",
+                "A Halloween costume"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Feral' in Gen Z slang means...",
+            "options": [
+                "A wild animal",
+                "Acting with zero social filter or restraint",
+                "Angry",
+                "Scared"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'tea' mean in slang?",
+            "options": [
+                "A hot beverage",
+                "Gossip or juicy information",
+                "A break",
+                "British culture"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Shade' means...",
+            "options": [
+                "Shadow from the sun",
+                "A lamp shade",
+                "Subtle disrespect or indirect insult",
+                "A color"
+            ],
+            "correct": 2
+        },
+        {
+            "question": "What does 'valid' mean in Gen Z?",
+            "options": [
+                "A parking pass",
+                "Accepted and respected",
+                "Correct answer",
+                "Legal"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Lock in' means...",
+            "options": [
+                "Lock a door",
+                "Focus intensely and eliminate distractions",
+                "Go to jail",
+                "Stay inside"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'skibidi' mean?",
+            "options": [
+                "A type of dance",
+                "A nonsense viral term associated with brain rot",
+                "A food",
+                "A location"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Brat summer' refers to...",
+            "options": [
+                "A naughty child",
+                "A Charli XCX inspired era of unapologetic party energy",
+                "A hot summer",
+                "A bad vacation"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What is 'mewing'?",
+            "options": [
+                "Making cat sounds",
+                "A jaw exercise that became a meme",
+                "Meowing at people",
+                "A meditation technique"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Demure' went viral meaning...",
+            "options": [
+                "Shy and quiet",
+                "Intentionally modest and mindful (usually ironic)",
+                "Boring",
+                "Expensive"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'seethe' mean?",
+            "options": [
+                "To boil water",
+                "To be quietly furious",
+                "To relax",
+                "To sleep"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "'Cope' in internet slang means...",
+            "options": [
+                "To handle well",
+                "To rationalize being wrong / denial",
+                "A type of hat",
+                "Managing stress"
+            ],
+            "correct": 1
+        },
+        {
+            "question": "What does 'glow up' mean?",
+            "options": [
+                "Turn on lights",
+                "A significant positive transformation",
+                "A sunburn",
+                "Getting brighter"
+            ],
+            "correct": 1
+        }
+    ]
+}
